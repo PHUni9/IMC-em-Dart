@@ -1,3 +1,5 @@
+https://imgur.com/a/eXwdsE3
+
 # **Calculadora de IMC em Dart**
 
 Este projeto consiste em uma calculadora de Índice de Massa Corporal (IMC) desenvolvida em Dart e Flutter. O aplicativo permite que os usuários insiram seu peso e altura, realizando o cálculo do IMC e fornecendo a classificação correspondente (abaixo do peso, peso normal, sobrepeso, obesidade).
